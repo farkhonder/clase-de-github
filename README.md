@@ -1,4 +1,4 @@
-# clase-de-github - en la rama dujar
+# clase-de-github clases de clases
 Comandos de github
 hello
 

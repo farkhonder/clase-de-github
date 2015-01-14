@@ -1,6 +1,5 @@
-# clase-de-github - en la rama dujar
+# clase-de-github
 Comandos de github
-hello
 
 Una vez instalas git, debes configurarlo:
 
